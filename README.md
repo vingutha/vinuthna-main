@@ -1,4 +1,4 @@
-### 👋 Welcome to Vinuthna Reddy Gutha's Digital Domain! 🚀
+### 👋 Welcome to Vinuthna Reddy Gutha's Personal Portfolio Website! 🚀
 
 I'm Vinuthna Reddy Gutha, a passionate Computer Science and Engineering graduate from the University at Buffalo, merging software development with machine learning. 🌐
 
