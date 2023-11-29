@@ -42,7 +42,7 @@ I've honed my skills through exciting experiences, including my tenure at Samsun
 #### Let's Connect! 🌟
 Join me in exploring the vast possibilities of technology. Let's collaborate and create the next big thing together! 🌐✨
 
-[Visit the website here!](https://vingutha.github.io/vinuthna-main/)
+[Visit my portfolio website here!](https://vingutha.github.io/vinuthna-main/)
 
 Preview:
 
