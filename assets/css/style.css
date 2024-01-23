@@ -359,21 +359,27 @@ img {
 
 .about__container {
     margin-top: 2.5rem;
+    display: flex;
+    justify-content: center;
 }
+
 
 .about__data {
     text-align: center;
+   
 }
 
 .about__description {
-    text-align: initial;
+    text-align: center;
+   
 }
-
 .about__list {
     text-align: initial;
     padding-top: 0.5rem;
 }
-
+.child{
+    display: inline-block;
+}
 .about__list-item {
     font-size: 1rem;
     padding: 0.4rem;
@@ -405,18 +411,6 @@ img {
     display: block;
 }
 
-.about__image-wrapper {
-    display: flex;
-    justify-content: center;
-    margin: 1.5rem 0;
-}
-
-.about__img {
-    justify-self: center;
-    width: 220px;
-    border-radius: .5rem;
-    border: 2px solid var(--first-color);
-}
 
 /* ===Education=== */
 .education__title-block {
