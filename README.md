@@ -1,12 +1,11 @@
 ### 👋 Welcome to Vinuthna Reddy Gutha's Personal Portfolio Website! 🚀
 
-I'm Vinuthna Reddy Gutha, a passionate Computer Science and Engineering graduate from the University at Buffalo, merging software development with machine learning. 🌐
-
+I'm Vinuthna Reddy Gutha, a passionate Computer Science and Engineering graduate from the University at Buffalo.
 #### About Me ℹ️
 I've honed my skills through exciting experiences, including my tenure at Samsung Electronics as a Software Engineer Intern, where I contributed significantly to pioneering projects. My expertise spans Python, Cloud Technologies, and Web Development. 🛠️
 
 #### My Skills 🧠
-- **Programming Languages**: Python, Java, JavaScript, R
+- **Programming Languages**: Python, Java, JavaScript
 - **Databases**: MySQL, PostgreSQL
 - **Tools**: Git, GitHub, Oracle, AWS, Postman, Wireshark
 
@@ -19,8 +18,8 @@ I've honed my skills through exciting experiences, including my tenure at Samsun
 - **Samsung R&D Institute**
   - Software Engineer Intern | Jan 2022 - June 2022
 
-- **There For You**
-  - Software Developer Engineer | June 2021 - December 2021
+- **Exposys Data Labs**
+  - Software Developer Engineer | June 2020 - July 2021
 
 #### Certifications 🎓
 - **AWS Certified Cloud Practitioner**: Certified by Udemy | Nov 2023 🌐
