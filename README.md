@@ -22,10 +22,8 @@ I've honed my skills through exciting experiences, including my tenure at Samsun
   - Software Developer Engineer | June 2020 - July 2021
 
 #### Certifications 🎓
-- **AWS Certified Cloud Practitioner**: Certified by Udemy | Nov 2023 🌐
-- **J.P. Morgan Chase & Co. Software Engineering Virtual Experience**: Certified by JPMC on Forage | Oct 2023 💻
+- **AWS Certified Cloud Practitioner**: Certified by Amazon Web Services | Dec 2023 🌐
 - **Oracle Cloud Infrastructure 2023 Foundations Associate**: Certified by Oracle | Sept 2023 ☁️
-- **Data Analyst Virtual Experience at KPMG**: Certified by Forage | July 2021 📊
 
 #### Projects 🚀
 - **Airline Management System**: full stack end-to-end ticket booking system &#9992
