@@ -505,7 +505,7 @@ img {
     display: flex;
     flex-direction: column;
     flex-flow: column;
-    background-color: #118a7e;
+    background-color: #58ada4;
     color: var(--first-color-lighten);
     border-radius: .5rem;
     padding: 1rem;
