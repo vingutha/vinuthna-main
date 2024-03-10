@@ -8,12 +8,12 @@
     /* ===Colors=== */
     --first-color: #1f6f78;
     --first-color-dark: #1f6f78;
-    --text-color: #524748;
+    --text-color: #101820;
     --first-color-light: #3baea0;
     --first-color-lighten: #FBF9F9;
 
     /* ===Font and Typography=== */
-    --body-font: 'Poppins', sans-serif;
+    --body-font: 'David Libre', sans-serif;
     --biggest-font-size: 2.5rem;
     --h1-font-size: 1.5rem;
     --h2-font-size: 1.25rem;
@@ -505,7 +505,7 @@ img {
     display: flex;
     flex-direction: column;
     flex-flow: column;
-    background-color: #58ada4;
+    background-color: #101820;
     color: var(--first-color-lighten);
     border-radius: .5rem;
     padding: 1rem;
